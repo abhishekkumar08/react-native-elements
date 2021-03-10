@@ -6,22 +6,22 @@ labels: Feature
 assignees: ''
 ---
 
-**Is your feature request related to a problem? Please Describe.**
+## Is your feature request related to a problem? Please Describe
 
 <!-- A clear and concise description of what the problem is. Ex. I'm always frustrated when [...] -->
 
-**Describe the solution you'd like**
+## Describe the solution you'd like
 
 <!-- A clear and concise description of what you want to happen. -->
 
-**Describe alternatives you've considered**
+## Describe alternatives you've considered
 
 <!-- A clear and concise description of any alternative solutions or features you've considered. -->
 
-**Approach to be followed (optional)**
+## Approach to be followed (optional)
 
 <!-- A clear and concise description of approach to be followed. -->
 
-**Additional context**
+## Additional context
 
 <!-- Add any other context or screenshots about the feature request here. -->

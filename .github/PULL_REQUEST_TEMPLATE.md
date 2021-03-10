@@ -16,16 +16,16 @@ _Put an `x` in the boxes that apply_
 - [ ] Documentation update (Documentation content changed)
 - [ ] Other (please describe):
 
-**Did you add tests for your changes?**
+## Did you add tests for your changes?
 
-**If relevant, did you update the documentation?**
+## If relevant, did you update the documentation?
 
-**Summary**
+## Summary
 
 <!-- Explain the **motivation** for making this change. What existing problem does the pull request solve? -->
 <!-- Try to link to an open issue for more information. -->
 
-**Does this PR introduce a breaking change?**
+## Does this PR introduce a breaking change?
 
 <!-- If this PR introduces a breaking change, please describe the impact and a migration path for existing applications. -->
 
